@@ -11,6 +11,7 @@ public class Email {
     private String email;
     private int mailboxCapacity=500;
 
+
     private String alternateEmail;
     private int defaultPasswordLength=8;
     private String companySuffix = "KoalaTea.com";
